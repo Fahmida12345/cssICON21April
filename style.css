@@ -1,0 +1,60 @@
+*{
+    background-color: rgb(241, 240, 237);}
+    
+    
+    h1{
+    color: blue;
+    font-weight: 900;
+    text-transform: capitalize;
+    }
+    
+    
+    #facebook{ 
+        background-color: darkorange;
+        color: blue;
+        height: 50px;
+        width: 50px;
+    }
+    
+    #youtube {
+        background-color: aquamarine;
+        color: red;
+        height: 50px;
+        width: 50px;
+    }
+    h1{ text-align: center;
+        color: rgb(127, 21, 21);
+        background-color: aqua;
+    }
+    #whats{ background-color: bisque;
+        color: green;
+        height: 50px;
+        width: 50px;
+    }
+    #insta{
+        background-color: wheat;
+        color:red;
+        height: 50px;
+        width: 50px;
+    }
+    #git{
+        background-color: cadetblue;
+    color: black;
+    height: 50px;
+    width: 50px;
+    }
+    #massenger{ 
+        
+        color: blue;
+        background-color: rgb(42, 108, 108);
+        height: 50px;
+        width: 50px;
+    }
+    h4{
+        text-align: center;
+        color: chartreuse;
+        
+    }
+    h5{
+        color: rgb(15, 49, 218);
+    }
